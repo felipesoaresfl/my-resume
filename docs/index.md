@@ -42,7 +42,6 @@ Participação em cerimônias de produto, como daily meetings, plannings, retros
 
 Preenchimento e organização de planilhas; atendimento pessoal e telefônico aos servidores públicos e munícipes; organização dos prontuários dos munícipes; arquivamento de exames, documentos e protocolos; recepção de pacientes; despachos administrativos e operações em sistemas internos. 
 
-
 #### [Via Varejo S.A.](https://marketplace.via.com.br/)
 
 **Auxiliar administrativo (Jovem Aprendiz)** – 04/2018 - 09/2019 
