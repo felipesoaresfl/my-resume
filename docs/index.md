@@ -6,10 +6,10 @@ hide:
 
 ## Contato
 
-* Email: felipesoaresfleite@gmail.com
-* Celular / [Whatsapp](https://wa.me/5511949547717) : +55 11 949547717
-* [Github](https://github.com/felipesoaresfl)
-* [Linkedin](https://www.linkedin.com/in/felipesoaresfl/)
+> Email: felipesoaresfleite@gmail.com<br>
+> Celular / [Whatsapp](https://wa.me/5511949547717) : +55 11 949547717<br>
+> [Github](https://github.com/felipesoaresfl)<br>
+> [Linkedin](https://www.linkedin.com/in/felipesoaresfl/)<br>
 
 ## Sobre mim
 
@@ -17,21 +17,15 @@ Em 2022 iniciei minha jornada profissional na área de tecnologia como estagiár
 
 ## Formação
 
-#### Análise e Desenvolvimento de Sistemas - 04/2022 - 10/2024
+#### Análise e Desenvolvimento de Sistemas - *04/2022 - 10/2024*
 
 [Faculdade Descomplica](https://descomplica.com.br/faculdade/) 
 
-#### Técnico Web Designer – 2/2015 - 12/2017  
+#### Técnico Web Designer / Ensino Médio – *02/2015 - 12/2017*  
 
 [ETEC Anhanguera](http://www.etecanhanguera.com.br/)
 
 Desenvolvimento de programas de computador para Internet seguindo as especificações e paradigmas das linguagens de programação. Manutenção e desenvolvimento de sites e portais na internet. Modelagem, implementação e manutenção de bancos de dados.  
-
-#### ETEC Anhanguera – 2/2015 - 12/2017
-
-Ensino Médio Integrado ao Curso Técnico em Informática para Internet – Carga horaria total 4.520h  
-
-com Certificação Centro Paula Souza. 
 
 ## Experiência
 
