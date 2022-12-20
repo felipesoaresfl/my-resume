@@ -1,3 +1,6 @@
 site_name: Felipe Soares
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: pink
