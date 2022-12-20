@@ -1,1 +1,3 @@
 site_name: Felipe Soares
+theme:
+  name: material
