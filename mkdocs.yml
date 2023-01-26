@@ -1,6 +1,9 @@
-site_name: Felipe Soares
+site_name: Felipe Soares Resume
+repo_url: https://github.com/felipesoaresfl/my-resume
 theme:
   name: material
+  logo: assets/profile-pic.png
+  favicon: assets/profile-pic.png
   palette:
     scheme: slate
     primary: purple
