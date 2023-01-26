@@ -1,15 +1,14 @@
 ---
-title: Resume - Felipe Soares Ferreira Leite
 hide:
   - navigation
 ---
-
+# Felipe Soares Ferreira Leite
 ## Contato
 
-> Email: felipesoaresfleite@gmail.com<br>
-> Celular / [Whatsapp](https://wa.me/5511949547717) : +55 11 949547717<br>
-> [Github](https://github.com/felipesoaresfl)<br>
-> [Linkedin](https://www.linkedin.com/in/felipesoaresfl/)<br>
+> :material-email: felipesoaresfleite@gmail.com<br>
+> :simple-whatsapp: [Whatsapp](https://wa.me/5511949547717) : +55 11 949547717<br>
+> :simple-github: [Github](https://github.com/felipesoaresfl)<br>
+> :simple-linkedin: [Linkedin](https://www.linkedin.com/in/felipesoaresfl/)<br>
 
 ## Sobre mim
 
