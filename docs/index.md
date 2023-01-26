@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 # Felipe Soares Ferreira Leite
-## Contato :phone:
+## Contato :telephone:
 > :material-email: felipesoaresfleite@gmail.com<br>
 > :simple-whatsapp: [Whatsapp](https://wa.me/5511949547717) : +55 11 949547717<br>
 > :simple-github: [Github](https://github.com/felipesoaresfl)<br>
@@ -15,7 +15,7 @@ Sou técnico em Web design formado pela ETEC Anhanguera, mas a maior parte da mi
 
 Ainda um mero padawan quando o assunto são hard skills, tenho ótimas soft skills, sou comunicativo, trabalho muito bem em equipe, proativo e questionador, pois gosto de entender todo o processo quando estou desenvolvendo. Possuo interesse em cargos de gestão em tech, como um Team Lead ou Tech Manager, pois me identifico com o perfil de liderança e adoraria ajudar outras pessoas a crescer profissionalmente, além de cuidar da evolução de um time.
 
-Sempre gostei de frontend, mas em minha rotina trabalho sou mais um dev fullstack, tenho interesse nas áreas de DevOps e Segurança também, porém vou focar em aprender o máximo que puder como fullstack antes de partir para novos conhecimentos, é só o inicio da jornada. (: :rocket: 
+Sempre gostei de frontend, mas em minha rotina trabalho sou mais um dev fullstack, tenho interesse nas áreas de DevOps e Segurança também, porém vou focar em aprender o máximo que puder como fullstack antes de partir para novos conhecimentos, é só o inicio da jornada. (:
 
 ## Formação :books:
 
@@ -29,7 +29,7 @@ Sempre gostei de frontend, mas em minha rotina trabalho sou mais um dev fullstac
 
 Desenvolvimento de programas de computador para Internet seguindo as especificações e paradigmas das linguagens de programação. Manutenção e desenvolvimento de sites e portais na internet. Modelagem, implementação e manutenção de bancos de dados.  
 
-## Experiência :handbag:
+## Experiência :briefcase:
 
 #### [Buser](https://buser.com.br)
 
@@ -63,7 +63,7 @@ Lançamento e fechamento de ordens de serviço no sistema SAP e SMI, das áreas 
 
 ## Portfólio :book:
 
-**[Encurtador de URL](https://github.com/felipesoaresfl/django-encurtador-URL)** - Encurtador de URL em Django
-**[Game of Life](https://github.com/felipesoaresfl/game-of-life)** - Autômato celular de Conway desenvolvido em Vue.js e Python
-**[Woldle Clone](https://github.com/felipesoaresfl/wordle-clone-js)** - Versão do Wordle em português desenvolvido com JavaScript.
+**[Encurtador de URL](https://github.com/felipesoaresfl/django-encurtador-URL)** - Encurtador de URL em Django; <br>
+**[Game of Life](https://github.com/felipesoaresfl/game-of-life)** - Autômato celular de Conway desenvolvido em Vue.js e Python; <br>
+**[Woldle Clone](https://github.com/felipesoaresfl/wordle-clone-js)** - Versão do Wordle em português desenvolvido com JavaScript; <br>
 **[Github Vuewer](https://github.com/felipesoaresfl/github_vuewer)** - Projeto feito com Vue 2 utilizando a API do Github, para visualizar infos de repositórios.
