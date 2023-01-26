@@ -2,6 +2,8 @@
 
 Resume link: [https://felipesoaresfl.github.io/my-resume/](https://felipesoaresfl.github.io/my-resume/)
 
+![Felipe Soares Resume](docs/assets/resume.gif)
+
 ## Installation
 
 ```python
